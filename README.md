@@ -28,3 +28,4 @@ Hi someone my name is Henrique and I'm software developer at [Concrete](https://
 * [RESUMO DO CONTEÚDO – AWS CERTIFIED CLOUD PRACTITIONER (PARTE 2) :: PT_BR](https://leonardo-matsumota.com/2020/06/18/resumo-do-conteudo-aws-certified-cloud-practitioner-parte-2/)
 * [Practice Exams | AWS Certified Cloud Practitioner CLF-C01 :: EN](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/)
 * [NEW Ultimate AWS Certified Cloud Practitioner - 2021 :: EN](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
+* [AWS Cloud Practitioner Essentials :: EN](https://www.aws.training/Details/eLearning?id=60697)
